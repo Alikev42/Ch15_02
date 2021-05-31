@@ -29,11 +29,11 @@ const styles = StyleSheet.create({
     flexDirection: "column",
     alignItems: 'center',
     justifyContent: 'space-around',
-    backgroundColor: 'ghostwhite',
+    backgroundColor: 'ghostwhite'/*,
     Platform.select({
       ios: {paddingTop: 20},
       android: {paddingTop: StatusBar.currentHeight}
-    })
+    })*/
   },
 
   box:
