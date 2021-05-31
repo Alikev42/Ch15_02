@@ -23,8 +23,7 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  container: 
-  {
+  container: {
     flex: 1,
     flexDirection: "column",
     alignItems: 'center',
@@ -36,8 +35,7 @@ const styles = StyleSheet.create({
     })*/
   },
 
-  box:
-  {
+  box: {
     width: 300,
     height: 100,
     justifyContent: "center",
@@ -48,8 +46,7 @@ const styles = StyleSheet.create({
     borderColor:
   },
 
-  boxText
-  {
+  boxText: {
     color: "darkslategray",
     fontWeight: "bold"
   }
