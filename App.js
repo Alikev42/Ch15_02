@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     backgroundColor: "lightgray",
     borderWidth: 1,
     borderStyle: "dashed",
-    borderColor:
+    borderColor: "darkslategray"
   },
 
   boxText: {
